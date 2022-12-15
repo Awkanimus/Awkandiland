@@ -356,7 +356,7 @@
 	path = imese
 	url = https://gitlab.com/4w/imese.git
 [submodule "minetest-itemplate"]
-	path = minetest-itemplate
+	path = itemplate
 	url = git@github.com:fluxionary/minetest-itemplate.git
 [submodule "fmod"]
 	path = fmod
@@ -370,3 +370,114 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = git@github.com:minetest-mods/skinsdb.git
+[submodule "large_slugs"]
+	path = large_slugs
+	url = git@github.com:TurkeyMcMac/large_slugs.git
+[submodule "lightning"]
+	path = lightning
+	url = git@github.com:minetest-mods/lightning.git
+[submodule "livingfloatlands"]
+	path = livingfloatlands
+	url = git@github.com:Skandarella/livingfloatlands.git
+[submodule "livingnether"]
+	path = livingnether
+	url = git@github.com:Skandarella/livingnether.git
+[submodule "locks"]
+	path = locks
+	url = git@github.com:Sokomine/locks.git
+[submodule "luxury_decor"]
+	path = luxury_decor
+	url = git@github.com:Andrey2470T/luxury_decor.git
+[submodule "deepslate"]
+	path = deepslate
+	url = git@github.com:Awkanimus/deepslate.git
+[submodule "mesecons"]
+	path = mesecons
+	url = git@github.com:minetest-mods/mesecons.git
+[submodule "mesebox"]
+	path = mesebox
+	url = git@github.com:johalun/mesebox.git
+[submodule "mg_villages"]
+	path = mg_villages
+	url = git@github.com:Sokomine/mg_villages.git
+[submodule "bright-light"]
+	path = bright-night
+	url = https://github.com/Yukitty/minetest-bright_night.git
+[submodule "toolranks-extras"]
+	path = toolranks-extras
+	url = git@github.com:louisroyer-minetest/toolranks-extras.git
+[submodule "minetest-toolranks"]
+	path = toolranks
+	url = git@github.com:lisacvuk/minetest-toolranks.git
+[submodule "moarmour"]
+	path = moarmour
+	url = git@github.com:dacmot/moarmour.git
+[submodule "mobkit"]
+	path = mobkit
+	url = git@github.com:TheTermos/mobkit.git
+[submodule "mobs_balrog"]
+	path = mobs_balrog
+	url = https://codeberg.org/Hamlet/mobs_balrog.git
+[submodule "mobs_banshee"]
+	path = mobs_banshee
+	url = https://codeberg.org/Hamlet/mobs_banshee.git
+[submodule "mobs_dwarves"]
+	path = mobs_dwarves
+	url = https://codeberg.org/Hamlet/mobs_dwarves.git
+[submodule "ethereal_bosses"]
+	path = ethereal_bosses
+	url = https://codeberg.org/duckgo/ethereal_bosses.git
+[submodule "mobs_gazer"]
+	path = mobs_gazer
+	url = https://codeberg.org/Hamlet/mobs_gazer.git
+[submodule "mobs_ghost_redo"]
+	path = mobs_ghost_redo
+	url = https://codeberg.org/Hamlet/mobs_ghost_redo.git
+[submodule "mobs_skeletons"]
+	path = mobs_skeletons
+	url = https://codeberg.org/Hamlet/mobs_skeletons.git
+[submodule "mobs_wolf"]
+	path = mobs_wolf
+	url = https://codeberg.org/Hamlet/mobs_wolf.git
+[submodule "nether"]
+	path = nether
+	url = git@github.com:minetest-mods/nether.git
+[submodule "nextgen_fungi"]
+	path = nextgen_fungi
+	url = git@github.com:starninjas/nextgen_fungi.git
+[submodule "naturalbiomes"]
+	path = naturalbiomes
+	url = git@github.com:Skandarella/naturalbiomes.git
+[submodule "obsidianstuff"]
+	path = obsidianstuff
+	url = git@github.com:SoloSniperCode/obsidianstuff.git
+[submodule "orbs_of_time"]
+	path = orbs_of_time
+	url = git@github.com:minetest-mods/orbs_of_time.git
+[submodule "people"]
+	path = people
+	url = git@github.com:Skandarella/people.git
+[submodule "petz"]
+	path = petz
+	url = git@github.com:runsy/petz.git
+[submodule "pipeworks"]
+	path = pipeworks
+	url = git@github.com:mt-mods/pipeworks.git
+[submodule "moretubes"]
+	path = moretubes
+	url = git@github.com:C-C-Minetest-Server/moretubes.git
+[submodule "power_generators"]
+	path = power_generators
+	url = git@github.com:sfence/power_generators.git
+[submodule "pumpkin-pies"]
+	path = pumpkin-pies
+	url = https://codeberg.org/spicemines/pumpkin-pies.git
+[submodule "quartz"]
+	path = quartz
+	url = git@github.com:minetest-mods/quartz.git
+[submodule "rainf"]
+	path = rainf
+	url = git@github.com:runsy/rainf.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = git@github.com:minetest-mods/player_monoids.git
