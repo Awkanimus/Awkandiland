@@ -1,0 +1,372 @@
+[submodule "ethereal"]
+	path = ethereal
+	url = git@notabug.org:TenPlus1/ethereal.git
+[submodule "moretrees"]
+	path = moretrees
+	url = git@github.com:mt-mods/moretrees.git
+[submodule "ebiomes"]
+	path = ebiomes
+	url = https://github.com/CowboyLva/ebiomes.git
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "3d_armor_flyswim"]
+	path = 3d_armor_flyswim
+	url = git@github.com:sirrobzeroone/3d_armor_flyswim.git
+[submodule "anvils"]
+	path = anvils
+	url = git@notabug.org:TenPlus1/anvils.git
+[submodule "ambience"]
+	path = ambience
+	url = https://notabug.org/TenPlus1/ambience.git
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://notabug.org/TenPlus1/bakedclay.git
+[submodule "beds"]
+	path = beds
+	url = https://notabug.org/TenPlus1/beds.git
+[submodule "bees"]
+	path = bees
+	url = https://notabug.org/TenPlus1/bees.git
+[submodule "boats"]
+	path = boats
+	url = https://notabug.org/TenPlus1/boats.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal.git
+[submodule "builtin_item"]
+	path = builtin_item
+	url = https://notabug.org/TenPlus1/builtin_item.git
+[submodule "carts"]
+	path = carts
+	url = git@notabug.org:TenPlus1/carts.git
+[submodule "castle"]
+	path = castle
+	url = https://notabug.org/TenPlus1/castle.git
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://notabug.org/TenPlus1/caverealms_lite.git
+[submodule "cblocks"]
+	path = cblocks
+	url = https://notabug.org/TenPlus1/cblocks.git
+[submodule "creative"]
+	path = creative
+	url = https://notabug.org/TenPlus1/creative.git
+[submodule "dmobs"]
+	path = dmobs
+	url = https://notabug.org/TenPlus1/dmobs.git
+[submodule "falling_item"]
+	path = falling_item
+	url = https://notabug.org/TenPlus1/falling_item.git
+[submodule "farming"]
+	path = farming
+	url = https://notabug.org/TenPlus1/farming.git
+[submodule "fire"]
+	path = fire
+	url = https://notabug.org/TenPlus1/fire.git
+[submodule "hopper"]
+	path = hopper
+	url = https://notabug.org/TenPlus1/hopper.git
+[submodule "invisibility"]
+	path = invisibility
+	url = https://notabug.org/TenPlus1/invisibility.git
+[submodule "itemframes"]
+	path = itemframes
+	url = https://notabug.org/TenPlus1/itemframes.git
+[submodule "lapis"]
+	path = lapis
+	url = https://notabug.org/TenPlus1/lapis.git
+[submodule "lucky_block"]
+	path = lucky_block
+	url = https://notabug.org/TenPlus1/lucky_block.git
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse.git
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal.git
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster.git
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc.git
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo.git
+[submodule "mobs_sky"]
+	path = mobs_sky
+	url = https://notabug.org/TenPlus1/mobs_sky.git
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://notabug.org/TenPlus1/mobs_water.git
+[submodule "money"]
+	path = money
+	url = https://notabug.org/TenPlus1/money.git
+[submodule "moreores"]
+	path = moreores
+	url = git@github.com:minetest-mods/moreores.git
+[submodule "nssb"]
+	path = nssb
+	url = https://notabug.org/TenPlus1/nssb.git
+[submodule "nssm"]
+	path = nssm
+	url = https://notabug.org/TenPlus1/nssm.git
+[submodule "pie"]
+	path = pie
+	url = git@notabug.org:TenPlus1/pie.git
+[submodule "pigiron"]
+	path = pigiron
+	url = git@notabug.org:TenPlus1/pigiron.git
+[submodule "playerplus"]
+	path = playerplus
+	url = git@notabug.org:TenPlus1/playerplus.git
+[submodule "protector"]
+	path = protector
+	url = git@notabug.org:TenPlus1/protector.git
+[submodule "regrow"]
+	path = regrow
+	url = https://notabug.org/TenPlus1/regrow.git
+[submodule "sfinv_bags"]
+	path = sfinv_bags
+	url = https://notabug.org/TenPlus1/sfinv_bags.git
+[submodule "sfinv_home"]
+	path = sfinv_home
+	url = git@notabug.org:TenPlus1/sfinv_home.git
+[submodule "sfinv"]
+	path = sfinv
+	url = git@github.com:rubenwardy/sfinv.git
+[submodule "simple_skins"]
+	path = simple_skins
+	url = git@notabug.org:TenPlus1/simple_skins.git
+[submodule "stairs"]
+	path = stairs
+	url = https://notabug.org/tenplus1/stairs
+[submodule "stamina"]
+	path = stamina
+	url = https://notabug.org/TenPlus1/stamina.git
+[submodule "teleport_potion"]
+	path = teleport_potion
+	url = https://notabug.org/TenPlus1/teleport_potion.git
+[submodule "tnt"]
+	path = tnt
+	url = https://notabug.org/TenPlus1/tnt.git
+[submodule "wool"]
+	path = wool
+	url = git@notabug.org:TenPlus1/wool.git
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = git@github.com:mt-mods/plantlife_modpack.git
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = git@github.com:mt-mods/homedecor_modpack.git
+[submodule "butter_farming"]
+	path = better_farming
+	url = git@github.com:AtlanteFr/BetterFarming.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = git@github.com:minetest-mods/moreblocks.git
+[submodule "adaptation_modpack"]
+	path = adaptation_modpack
+	url = git@github.com:sfence/adaptation_modpack.git
+[submodule "algae"]
+	path = algae
+	url = git@github.com:ExeVirus/algae.git
+[submodule "animalia"]
+	path = animalia
+	url = git@github.com:ElCeejo/animalia.git
+[submodule "animalworld"]
+	path = animalworld
+	url = git@github.com:Skandarella/animalworld.git
+[submodule "appliances"]
+	path = appliances
+	url = git@github.com:sfence/appliances.git
+[submodule "armor_expanded"]
+	path = armor_expanded
+	url = git@github.com:Crystalwarrior/armor_expanded.git
+[submodule "auroras"]
+	path = auroras
+	url = git@github.com:random-geek/auroras.git
+[submodule "awards"]
+	path = awards
+	url = https://gitlab.com/rubenwardy/awards.git
+[submodule "Awesome_Monsters"]
+	path = Awesome_Monsters
+	url = git@github.com:Tim79000/Awesome_Monsters.git
+[submodule "bouncy_bed"]
+	path = bouncy_bed
+	url = https://github.com/MeseCraft/bouncy_bed
+[submodule "basket"]
+	path = basket
+	url = git@github.com:C-C-Minetest-Server/basket.git
+[submodule "bbq"]
+	path = bbq
+	url = git@github.com:Grizzly-Adam/BBQ.git
+[submodule "beautiflowers"]
+	path = beautiflowers
+	url = git@github.com:minefaco/beautiflowers.git
+[submodule "automobiles_pck"]
+	path = automobiles_pck
+	url = git@github.com:APercy/automobiles_pck.git
+[submodule "biofuel"]
+	path = biofuel
+	url = git@github.com:Lokrates/Biofuel.git
+[submodule "comboblock"]
+	path = comboblock
+	url = git@github.com:sirrobzeroone/comboblock.git
+[submodule "place_rotated"]
+	path = place_rotated
+	url = git@github.com:12Me21/place_rotated.git
+[submodule "biomes"]
+	path = biomes
+	url = git@github.com:AtlanteFr/Biomes.git
+[submodule "bushy_leaves"]
+	path = bushy_leaves
+	url = https://git.minetest.land/erlehmann/bushy_leaves.git
+[submodule "candles_3d"]
+	path = candles_3d
+	url = https://gitlab.com/mazes_80/candles_3d.git
+[submodule "castle_gates"]
+	path = castle_gates
+	url = git@github.com:minetest-mods/castle_gates.git
+[submodule "cg_plus"]
+	path = cg_plus
+	url = git@github.com:random-geek/cg_plus.git
+[submodule "chunkkeeper"]
+	path = chunkkeeper
+	url = git@github.com:Beanzilla/chunkkeeper.git
+[submodule "church"]
+	path = church
+	url = git@github.com:sfence/church.git
+[submodule "climate_api"]
+	path = climate_api
+	url = git@github.com:t-affeldt/climate_api.git
+[submodule "regional_weather"]
+	path = regional_weather
+	url = git@github.com:t-affeldt/regional_weather.git
+[submodule "config"]
+	path = config
+	url = https://bitbucket.org/sorcerykid/config.git
+[submodule "creatura"]
+	path = creatura
+	url = git@github.com:ElCeejo/creatura.git
+[submodule "minetest_cups"]
+	path = cups
+	url = git://repo.or.cz/minetest_cups.git
+[submodule "currency"]
+	path = currency
+	url = git@github.com:mt-mods/currency.git
+[submodule "denseores"]
+	path = denseores
+	url = git@notabug.org:Oswald/denseores.git
+[submodule "dfcaverns"]
+	path = dfcaverns
+	url = git@github.com:FaceDeer/dfcaverns.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = git@github.com:pyrollo/display_modpack.git
+[submodule "draconis"]
+	path = draconis
+	url = git@github.com:ElCeejo/draconis.git
+[submodule "drawers"]
+	path = drawers
+	url = git@github.com:minetest-mods/drawers.git
+[submodule "elepower"]
+	path = elepower
+	url = git@github.com:sirrobzeroone/elepower.git
+[submodule "minetest-enable-shadows"]
+	path = enable_shadows
+	url = git@github.com:rollerozxa/minetest-enable-shadows.git
+[submodule "cool_trees"]
+	path = cool_trees
+	url = git@github.com:runsy/cool_trees.git
+[submodule "connected_chests"]
+	path = connected_chests
+	url = git@github.com:HybridDog/connected_chests.git
+[submodule "cottages"]
+	path = cottages
+	url = git@github.com:fluxionary/minetest-cottages.git
+[submodule "craftguide"]
+	path = craftguide
+	url = git@github.com:minetest-mods/craftguide.git
+[submodule "death_messages"]
+	path = death_messages
+	url = git@github.com:4Evergreen4/death_messages.git
+[submodule "findbiomes"]
+	path = findbiomes
+	url = git://repo.or.cz/minetest_findbiomes.git
+[submodule "extra_doors"]
+	path = extra_doors
+	url = https://bitbucket.org/sorcerykid/extra_doors.git
+[submodule "facade"]
+	path = facade
+	url = git@github.com:TumeniNodes/facade.git
+[submodule "farming_flood"]
+	path = farming_flood
+	url = https://github.com/AFCMS/farming_flood
+[submodule "feed_buckets"]
+	path = feed_buckets
+	url = git@github.com:sfence/feed_buckets.git
+[submodule "flowerpot"]
+	path = flowerpot
+	url = git@github.com:minetest-mods/flowerpot.git
+[submodule "forgotten_monsters"]
+	path = forgotten_monsters
+	url = https://codeberg.org/duckgo/forgotten_monsters.git
+[submodule "furnituregen"]
+	path = furnituregen
+	url = git@github.com:theraven262/minetest-furnituregen.git
+[submodule "glass_stained"]
+	path = glass_stained
+	url = git@github.com:v-rob/glass_stained.git
+[submodule "geodes"]
+	path = geodes
+	url = git@github.com:Awkanimus/geodes.git
+[submodule "goblins"]
+	path = goblins
+	url = https://gitlab.com/freelikegnu/goblins.git
+[submodule "goops_rings"]
+	path = goops_rings
+	url = git@github.com:MT-Goops/rings.git
+[submodule "grappling_hook"]
+	path = grappling_hook
+	url = git@github.com:Awkanimus/grappling_hook.git
+[submodule "h_windows"]
+	path = h_windows
+	url = git@github.com:BrownHedgehog78/h_windows.git
+[submodule "handholds_redo"]
+	path = handholds_redo
+	url = git@github.com:t-affeldt/handholds_redo.git
+[submodule "handle_schematics"]
+	path = handle_schematics
+	url = git@github.com:Sokomine/handle_schematics.git
+[submodule "headlamp"]
+	path = headlamp
+	url = git@github.com:OgelGames/headlamp.git
+[submodule "hidden_doors"]
+	path = hidden_doors
+	url = https://codeberg.org/Hamlet/hidden_doors.git
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = git@github.com:mt-mods/home_workshop_modpack.git
+[submodule "wielded_light"]
+	path = wielded_light
+	url = git@github.com:minetest-mods/wielded_light.git
+[submodule "imese"]
+	path = imese
+	url = https://gitlab.com/4w/imese.git
+[submodule "minetest-itemplate"]
+	path = minetest-itemplate
+	url = git@github.com:fluxionary/minetest-itemplate.git
+[submodule "fmod"]
+	path = fmod
+	url = git@github.com:fluxionary/minetest-fmod.git
+[submodule "futil"]
+	path = futil
+	url = git@github.com:fluxionary/minetest-futil.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:minetest-mods/i3.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = git@github.com:minetest-mods/skinsdb.git
