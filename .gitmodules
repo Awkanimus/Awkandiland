@@ -127,18 +127,6 @@
 [submodule "regrow"]
 	path = regrow
 	url = https://notabug.org/TenPlus1/regrow.git
-[submodule "sfinv_bags"]
-	path = sfinv_bags
-	url = https://notabug.org/TenPlus1/sfinv_bags.git
-[submodule "sfinv_home"]
-	path = sfinv_home
-	url = git@notabug.org:TenPlus1/sfinv_home.git
-[submodule "sfinv"]
-	path = sfinv
-	url = git@github.com:rubenwardy/sfinv.git
-[submodule "simple_skins"]
-	path = simple_skins
-	url = git@notabug.org:TenPlus1/simple_skins.git
 [submodule "stairs"]
 	path = stairs
 	url = https://notabug.org/tenplus1/stairs
@@ -470,7 +458,7 @@
 	path = power_generators
 	url = git@github.com:sfence/power_generators.git
 [submodule "pumpkin-pies"]
-	path = pumpkin-pies
+	path = pumpkin_pies
 	url = https://codeberg.org/spicemines/pumpkin-pies.git
 [submodule "quartz"]
 	path = quartz
@@ -481,3 +469,132 @@
 [submodule "player_monoids"]
 	path = player_monoids
 	url = git@github.com:minetest-mods/player_monoids.git
+[submodule "returnmirror"]
+	path = returnmirror
+	url = git://repo.or.cz/minetest_returnmirror.git
+[submodule "mana"]
+	path = mana
+	url = git://repo.or.cz/minetest_mana.git
+[submodule "riesenpilz"]
+	path = riesenpilz
+	url = git@github.com:HybridDog/riesenpilz.git
+[submodule "scaffolding"]
+	path = scaffolding
+	url = https://Awkanimus@bitbucket.org/Infinatum/scaffolding.git
+[submodule "minetest_schemedit"]
+	path = minetest_schemedit
+	url = https://codeberg.org/Wuzzy/minetest_schemedit.git
+[submodule "school_furniture"]
+	path = school_furniture
+	url = git@github.com:josegamestest/school_furniture.git
+[submodule "minetest_show_wielded_item"]
+	path = show_wielded_item
+	url = git://repo.or.cz/minetest_show_wielded_item.git
+[submodule "signs_lib"]
+	path = signs_lib
+	url = git@github.com:mt-mods/signs_lib.git
+[submodule "skeletons"]
+	path = skeletons
+	url = git@github.com:sfence/skeletons.git
+[submodule "livingdesert"]
+	path = livingdesert
+	url = git@github.com:Skandarella/livingdesert.git
+[submodule "livingjungle"]
+	path = livingjungle
+	url = git@github.com:Skandarella/livingjungle.git
+[submodule "wilhelminessounds"]
+	path = wilhelminessounds
+	url = git@github.com:Skandarella/wilhelminessounds.git
+[submodule "sounds"]
+	path = sounds
+	url = git@github.com:AntumMT/mod-sounds.git
+[submodule "sounds_redone"]
+	path = sounds_redone
+	url = git@github.com:starninjas/sounds_redone.git
+[submodule "silence"]
+	path = silence
+	url = git@github.com:fluxionary/minetest-silence.git
+[submodule "spears"]
+	path = spears
+	url = https://gitlab.com/echoes91/spears.git
+[submodule "streets"]
+	path = streets
+	url = git@github.com:minetest-mods/streets.git
+[submodule "street_signs"]
+	path = street_signs
+	url = git@github.com:mt-mods/street_signs.git
+[submodule "sumpf"]
+	path = sumpf
+	url = git@github.com:HybridDog/sumpf.git
+[submodule "swaz"]
+	path = swaz
+	url = git@github.com:runsy/swaz.git
+[submodule "technic"]
+	path = technic
+	url = git@github.com:mt-mods/technic.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = git@github.com:mt-mods/basic_materials.git
+[submodule "vein_miner"]
+	path = vein_miner
+	url = git@github.com:QuoteNat/vein_miner.git
+[submodule "throwing"]
+	path = throwing
+	url = git@github.com:minetest-mods/throwing.git
+[submodule "tmw_slimes"]
+	path = tmw_slimes
+	url = git@notabug.org:Piezo_/tmw_slimes.git
+[submodule "tools_obsidian"]
+	path = tools_obsidian
+	url = git@github.com:Dragonop/tools_obsidian.git
+[submodule "trading"]
+	path = trading
+	url = git@github.com:rollerozxa/trading.git
+[submodule "ts_doors"]
+	path = ts_doors
+	url = git@github.com:minetest-mods/ts_doors.git
+[submodule "ts_furniture"]
+	path = ts_furniture
+	url = git@github.com:minetest-mods/ts_furniture.git
+[submodule "ts_workshop"]
+	path = ts_workshop
+	url = git@github.com:minetest-mods/ts_workshop.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = git@github.com:mt-mods/unifieddyes.git
+[submodule "void_chest"]
+	path = void_chest
+	url = git@github.com:MeseCraft/void_chest.git
+[submodule "waffles"]
+	path = waffles
+	url = git@github.com:GreenXenith/waffles.git
+[submodule "wield3d"]
+	path = wield3d
+	url = git@github.com:stujones11/wield3d.git
+[submodule "witches"]
+	path = witches
+	url = https://gitlab.com/freelikegnu/witches.git
+[submodule "x_enchanting"]
+	path = x_enchanting
+	url = https://bitbucket.org/minetest_gamers/x_enchanting.git
+[submodule "x_farming"]
+	path = x_farming
+	url = https://bitbucket.org/minetest_gamers/x_farming.git
+[submodule "x_obsidianmese"]
+	path = x_obsidianmese
+	url = https://bitbucket.org/minetest_gamers/x_obsidianmese.git
+[submodule "xocean"]
+	path = xocean
+	url = git@github.com:starninjas/xocean.git
+[submodule "biome_lib"]
+	path = biome_lib
+	url = git@github.com:mt-mods/biome_lib.git
+[submodule "tubelib2"]
+	path = tubelib2
+	url = git@github.com:joe7575/tubelib2.git
+[submodule "keyevent"]
+	path = keyevent
+	url = ./keyevent
+[submodule "fluid_lib"]
+	path = fluid_lib
+	url = git@github.com:sirrobzeroone/fluid_lib.git
