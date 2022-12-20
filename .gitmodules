@@ -52,9 +52,6 @@
 [submodule "creative"]
 	path = creative
 	url = https://notabug.org/TenPlus1/creative.git
-[submodule "dmobs"]
-	path = dmobs
-	url = https://notabug.org/TenPlus1/dmobs.git
 [submodule "falling_item"]
 	path = falling_item
 	url = https://notabug.org/TenPlus1/falling_item.git
@@ -424,9 +421,6 @@
 [submodule "mobs_skeletons"]
 	path = mobs_skeletons
 	url = https://codeberg.org/Hamlet/mobs_skeletons.git
-[submodule "mobs_wolf"]
-	path = mobs_wolf
-	url = https://codeberg.org/Hamlet/mobs_wolf.git
 [submodule "nether"]
 	path = nether
 	url = git@github.com:minetest-mods/nether.git
@@ -598,3 +592,6 @@
 [submodule "fluid_lib"]
 	path = fluid_lib
 	url = git@github.com:sirrobzeroone/fluid_lib.git
+[submodule "minetest_doc_modpack"]
+	path = doc_modpack
+	url = http://repo.or.cz/minetest_doc_modpack.git
