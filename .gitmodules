@@ -145,9 +145,6 @@
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
 	url = git@github.com:mt-mods/homedecor_modpack.git
-[submodule "butter_farming"]
-	path = better_farming
-	url = git@github.com:AtlanteFr/BetterFarming.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = git@github.com:minetest-mods/moreblocks.git
@@ -586,12 +583,15 @@
 [submodule "tubelib2"]
 	path = tubelib2
 	url = git@github.com:joe7575/tubelib2.git
-[submodule "keyevent"]
-	path = keyevent
-	url = ./keyevent
 [submodule "fluid_lib"]
 	path = fluid_lib
 	url = git@github.com:sirrobzeroone/fluid_lib.git
 [submodule "minetest_doc_modpack"]
 	path = doc_modpack
 	url = http://repo.or.cz/minetest_doc_modpack.git
+[submodule "better_farming"]
+	path = better_farming
+	url = git@github.com:Awkanimus/better_farming.git
+[submodule "keyevent"]
+	path = keyevent
+	url = git@github.com:Desour/keyevent.git
