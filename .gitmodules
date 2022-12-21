@@ -595,3 +595,6 @@
 [submodule "keyevent"]
 	path = keyevent
 	url = git@github.com:Desour/keyevent.git
+[submodule "speed_boots"]
+	path = speed_boots
+	url = git@github.com:MoomooDude/More-Boots.git
