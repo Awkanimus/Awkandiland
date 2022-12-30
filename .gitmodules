@@ -598,3 +598,9 @@
 [submodule "doors"]
 	path = doors
 	url = https://notabug.org/TenPlus1/doors.git
+[submodule "reportlist"]
+	path = reportlist
+	url = https://github.com/Lejo1/reportlist.git
+[submodule "server_news"]
+	path = server_news
+	url = https://github.com/Ezhh/server_news.git
