@@ -319,9 +319,6 @@
 [submodule "handle_schematics"]
 	path = handle_schematics
 	url = https://github.com/Sokomine/handle_schematics.git
-[submodule "headlamp"]
-	path = headlamp
-	url = https://github.com/OgelGames/headlamp.git
 [submodule "hidden_doors"]
 	path = hidden_doors
 	url = https://codeberg.org/Hamlet/hidden_doors.git
@@ -378,7 +375,7 @@
 	url = https://github.com/johalun/mesebox.git
 [submodule "mg_villages"]
 	path = mg_villages
-	url = https://github.com/Sokomine/mg_villages.git
+	url = https://github.com/Awkanimus/mg_villages.git
 [submodule "bright-light"]
 	path = bright-night
 	url = https://github.com/Yukitty/minetest-bright_night.git
@@ -595,3 +592,9 @@
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2.git
+[submodule "technic"]
+	path = technic
+	url = https://github.com/mt-mods/technic.git
+[submodule "doors"]
+	path = doors
+	url = https://notabug.org/TenPlus1/doors.git
