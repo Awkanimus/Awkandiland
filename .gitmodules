@@ -67,9 +67,6 @@
 [submodule "invisibility"]
 	path = invisibility
 	url = https://notabug.org/TenPlus1/invisibility.git
-[submodule "itemframes"]
-	path = itemframes
-	url = https://notabug.org/TenPlus1/itemframes.git
 [submodule "lapis"]
 	path = lapis
 	url = https://notabug.org/TenPlus1/lapis.git
@@ -397,9 +394,6 @@
 [submodule "mobkit"]
 	path = mobkit
 	url = git@github.com:TheTermos/mobkit.git
-[submodule "mobs_balrog"]
-	path = mobs_balrog
-	url = https://codeberg.org/Hamlet/mobs_balrog.git
 [submodule "mobs_banshee"]
 	path = mobs_banshee
 	url = https://codeberg.org/Hamlet/mobs_banshee.git
@@ -520,9 +514,6 @@
 [submodule "swaz"]
 	path = swaz
 	url = git@github.com:runsy/swaz.git
-[submodule "technic"]
-	path = technic
-	url = git@github.com:mt-mods/technic.git
 [submodule "basic_materials"]
 	path = basic_materials
 	url = git@github.com:mt-mods/basic_materials.git
@@ -532,9 +523,6 @@
 [submodule "throwing"]
 	path = throwing
 	url = git@github.com:minetest-mods/throwing.git
-[submodule "tmw_slimes"]
-	path = tmw_slimes
-	url = git@notabug.org:Piezo_/tmw_slimes.git
 [submodule "tools_obsidian"]
 	path = tools_obsidian
 	url = git@github.com:Dragonop/tools_obsidian.git
@@ -598,3 +586,12 @@
 [submodule "speed_boots"]
 	path = speed_boots
 	url = git@github.com:MoomooDude/More-Boots.git
+[submodule "minetest-mobs_balrog"]
+	path = mobs_balrog
+	url = git@github.com:fluxionary/minetest-mobs_balrog.git
+[submodule "tmw_slimes"]
+	path = tmw_slimes
+	url = git@github.com:sirrobzeroone/tmw_slimes_piezo.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
