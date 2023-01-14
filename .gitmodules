@@ -109,9 +109,6 @@
 [submodule "pie"]
 	path = pie
 	url = https://notabug.org/TenPlus1/pie.git
-[submodule "pigiron"]
-	path = pigiron
-	url = https://notabug.org/TenPlus1/pigiron.git
 [submodule "playerplus"]
 	path = playerplus
 	url = https://notabug.org/TenPlus1/playerplus.git
@@ -361,9 +358,6 @@
 [submodule "locks"]
 	path = locks
 	url = https://github.com/Sokomine/locks.git
-[submodule "luxury_decor"]
-	path = luxury_decor
-	url = https://github.com/Andrey2470T/luxury_decor.git
 [submodule "deepslate"]
 	path = deepslate
 	url = https://github.com/Awkanimus/deepslate.git
@@ -601,6 +595,15 @@
 [submodule "reportlist"]
 	path = reportlist
 	url = https://github.com/Lejo1/reportlist.git
-[submodule "server_news"]
-	path = server_news
-	url = https://github.com/Ezhh/server_news.git
+[submodule "news_markdown"]
+	path = news_markdown
+	url = https://github.com/Bituvo/news_markdown.git
+[submodule "markdown2formspec"]
+	path = markdown2formspec
+	url = https://github.com/ExeVirus/markdown2formspec2.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "greek"]
+	path = greek
+	url = https://github.com/GreenXenith/greek.git
